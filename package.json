@@ -1,0 +1,19 @@
+{
+  "name": "ka_app",
+  "version": "1.0.0",
+  "description": "Some dummy app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konradadamczykk/kro.git"
+  },
+  "author": "Konrad Adamczyk",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/konradadamczykk/kro/issues"
+  },
+  "homepage": "https://github.com/konradadamczykk/kro#readme"
+}
