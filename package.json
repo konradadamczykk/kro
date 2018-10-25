@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/konradadamczykk/kro/issues"
   },
-  "homepage": "https://github.com/konradadamczykk/kro#readme"
+  "homepage": "https://github.com/konradadamczykk/kro#readme",
+  "dependencies": {
+    "debug": "^3.0.0",
+    "express": "^4.16.4"
+  }
 }

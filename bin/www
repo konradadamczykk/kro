@@ -1,6 +1,6 @@
 #!/usr/bin/env nodejs
 var debug = require('debug')('cwierkacz');
-var app = require('../app');
+var app = require('../index');
 
 app.set('port', process.env.PORT || 3000);
 
